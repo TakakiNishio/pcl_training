@@ -1,6 +1,6 @@
 ### 3D Object Recognition based on Correspondence Grouping
 
-[tutorial]{http://www.pointclouds.org/documentation/tutorials/correspondence_grouping.php}
+[tutorial]( http://www.pointclouds.org/documentation/tutorials/correspondence_grouping.php )
 ```
 $ mkdir build
 $ cd build
